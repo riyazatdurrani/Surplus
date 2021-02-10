@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457022110386",
+    "project_id": "surplus-860b3",
+    "storage_bucket": "surplus-860b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457022110386:android:623175524c2e8a21f0e7ab",
+        "android_client_info": {
+          "package_name": "com.riyazat.surplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457022110386-cnmjdudagcb28315cg7gvh08ceghm626.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqS38fCM82phMPeIvJCJR5SNjO_mqOD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457022110386-cnmjdudagcb28315cg7gvh08ceghm626.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
